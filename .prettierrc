@@ -1,0 +1,11 @@
+{
+  "trailingComma": "none",
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": true,
+  "objectWrap": "collapse",
+  "bracketSameLine": true,
+  "singleAttributePerLine": false,
+  "arrowParens": "avoid",
+  "printWidth": 88
+}

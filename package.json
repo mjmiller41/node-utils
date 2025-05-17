@@ -1,0 +1,26 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "Utilities package",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mjmiller41/node-utils.git"
+  },
+  "author": "Michael J. Miller",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mjmiller41/node-utils/issues"
+  },
+  "homepage": "https://github.com/mjmiller41/node-utils#readme",
+  "dependencies": {
+    "glob": "^11.0.2",
+    "js-yaml": "^4.1.0",
+    "node-libcurl": "^4.1.0",
+    "sharp": "^0.34.1",
+    "url-slug": "^4.0.1"
+  }
+}
